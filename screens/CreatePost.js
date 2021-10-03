@@ -144,7 +144,6 @@ const styles = StyleSheet.create({
 	appTitleText: {
 		color: "white",
 		fontSize: RFValue(28),
-		fontFamily: "Bubblegum-Sans"
 	},
 
     fieldsContainer : {
@@ -167,7 +166,6 @@ const styles = StyleSheet.create({
         paddingLeft : RFValue(10),
         borderWidth : RFValue(1),
         color : 'white',
-        fontFamily : 'Bubblegum-Sans' 
     },
 
     inputFontExtra : {
